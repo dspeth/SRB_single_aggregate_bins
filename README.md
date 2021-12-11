@@ -11,7 +11,7 @@ Binning was done using jupyter notebooks, included in the repository. Contigs we
 The notebooks detail the preprocessing that was done on JGI supplied files to obtain the "*_kmer_freq" and "*_phylogeny_w_header" files used in the binning.
 
 ### files
-*.fna - Contig fasta file assembled by JGI
-*.ipynb - noteook with the code used to bin the dataset
-*_kmer_freq - kmer frequencies of the contigs, with k=4
-*_phylogeny_w_header - taxonomy of the genes on the contigs 
+*.fna - Contig fasta file assembled by JGI  
+*.ipynb - noteook with the code used to bin the dataset  
+*_kmer_freq - kmer frequencies of the contigs, with k=4  
+*_phylogeny_w_header - taxonomy of the genes on the contigs  

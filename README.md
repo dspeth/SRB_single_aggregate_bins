@@ -1,5 +1,6 @@
 ## SRB_single_aggregate_bins
-Jupyter notebooks and table files used for the binning of metagenomes obtained from MDA amplified single ANME-SRB aggregates
+Jupyter notebooks and table files used for the binning of metagenomes obtained from MDA amplified single ANME-SRB aggregates.  
+The files in this repository support work described in Murali et al. (manuscript in preparation)
 
 ### General
 The files in this repository represent 6 metagenomes retrieved from individual aggregates composed of methane oxidizing ANME archaea and sulfate reducing bacteria. 
